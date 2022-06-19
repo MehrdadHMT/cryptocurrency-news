@@ -1,0 +1,9 @@
+.env.sh
+crontab
+docker-compose.yml
+Dockerfile
+requirements.txt
+script.sh
+log-files/
+.idea/
+data/
